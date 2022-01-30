@@ -1,0 +1,1 @@
+# Risky_building_detection_from_satelite_images-
