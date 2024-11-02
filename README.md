@@ -1,4 +1,7 @@
 ## Code and paper will be available soon
+## Current Update
+
+🚧 **Project Update**: We are currently in the process of updating our project to integrate the latest version of the YOLO model for real-time applications. This enhancement aims to increase detection accuracy and improve the speed of processing satellite imagery, allowing us to provide more immediate assessments and insights.
 ## Overview
 
 Bangladesh, among the most densely populated countries globally, faces a critical issue with the structural safety of buildings in its capital city, Dhaka. Shockingly, approximately 90% of the buildings in Dhaka are deemed highly risky and susceptible to collapse during natural disasters like earthquakes. To address this pressing concern, our team aims to develop a solution utilizing deep learning technology to identify risky buildings within Dhaka city using satellite imagery.
@@ -7,9 +10,7 @@ Bangladesh, among the most densely populated countries globally, faces a critica
 
 The primary goal of this project is to leverage the power of the YOLO object detection model to analyze satellite images of Dhaka. By employing deep learning techniques, we aim to pinpoint and classify buildings that are at high risk of collapse during natural hazards. The ultimate objective is to provide valuable insights to local authorities, enabling them to identify high-risk areas promptly and take necessary measures to ensure public safety.
 
-## Current Update
 
-🚧 **Project Update**: We are currently in the process of updating our project to integrate the latest version of the YOLO model for real-time applications. This enhancement aims to increase detection accuracy and improve the speed of processing satellite imagery, allowing us to provide more immediate assessments and insights.
 
 ## Methodology
 
